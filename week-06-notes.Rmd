@@ -1,0 +1,183 @@
+---
+title: "Week-06-Notes"
+author: "Andrew Nalundasan"
+date: "`r format(Sys.time(), '%B %d, %Y')`"
+output: 
+  html_document:
+    toc: true
+    toc_depth: 3
+    toc_float: true
+    number_sections: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Overview video
+
++ Colaner taking the wheel for the rest of the quarter
++ PhD in Philosophy but drifted to business school and earned MBA
++ Teaching technology ethics
++ Director of OMSBA Program
++ Week 6 belongs more to weeks 1-5 than the 2nd half of the week
++ Expect transition into bringing analytics to stakeholder relationships
+
+3 case studies: 
+
+1. Challenge the boss (Sasser): 
+
++ Employee / manager dynamic
++ Schlegel compares and contrasts to Colin Kaepernick situation
+    
+    + kneeling during National Anthem was a protest to polic brutality
+    
++ Tom is a hot shot kid that's working with the big boys, Frank
++ Tom has great ideas about rowth and new products
++ Shannon vouched for Tom but Frank don't like him
++ Shannon wants Tom to work with Frank to collaborate
++ Tom publicly challenged his boss, Frank, during business meetings
++ Frank communicated what he needs from Tom
++ Tom is resisting changing his ways as he sees Frank's vision as flawed
+
+## Colin Kaepernick situation
+
+Choices and consequences
+
++ Stakeholders: 
+
+    1. Tom Green
+    2. Frank Davis - Boss
+    3. Shannon McDonald - VP and Advocate
+    4. Clients / Customers
+    5. Coworkers / Teams
+    6. D7 Displays
+    
++ Case analysis:
+
+    + Can I identify with this case?
+    + How do I diagnose the problems in the case?
+    + How can I apply apologies, feedback, and leadership styles to this situation?
+    + What are my recommendations?
+        + Is Tom salvagable?
+        + Always easier to coach than to fire and hire 
+        
++ Colin Kaepernick
+
+    + Kneeling during national anthem to bring attention to social injustice and police bias towards BIPOC
+    + Stakeholders:
+        + Owners, teammates, fans
+        + BIPOC community
+        + His family, his beliefs and values
+    + Did he succeed in his goal?
+        + No, because his message was hijacked 
+        + He was not allowed to communicate his stance because media hijacked it
+    + Today: he was righteous. Back then, no
+    + He filed and won a discrimination lawsuit against the NFL
+    + BLM in 2020
+        + Lebron James says "This...is why" 
+        + Nike: "believe in something, even if it means sacrificing everything"
+    + "we are free to choose our actions...but we are not free to choose the consequences of these actions"
+        + you own your choices, but don't forget that you own the consequences of these choices too
+
+2. Paypal case: Michael Porter, et. al. 
+
++ keep in mind week 1 info: Shareholder theory vs Stakeholder theory
++ when you make decisions, think about the impact on the well being of all stakeholders rather than focusing solely on shareholders
+
+3. Google case:
+
++ examines when google employees had strong opinions about direction of the company and how leadership dealt or did not deal with this
+
+# Challenge the Boss or Stand Down (Sasser, 2011)
+
+Sasser, Earl W. (2011, May). *Challenge the boss or stand down?*. Harvard Business Review: Harvard Business School Publishing Corporation
+
+# Paypal, the next chapter (Porter, et al, 2021)
+Porter, M., Kramer, M., Lob, A. (2021, May). *Paypal: the next chapter*. Harvard Business Review: Harvard Business School Publishing Corporation
+
+4 types of digital financial services that could occur online, in-app, via mobile device, in-store:
+
+    1. Person-to-person payments (Venmo)
+        + Did not generate any revenues for the company 
+    
+    2. Point of Sale (POS) payments for purchase
+        + Apply Pay / Google Pay, etc. 
+        + Click-to-pay option for use on vendor websites: American Express / Discover / MasterCard / Visa
+    
+    3. International remittances
+    4. Lending to consumers and merchants
+
++ PayPal - company that offered person-to-person money transfers online
++ you sub-optimize shareholder value when you place them first, because you make short-term decisions
++ managing by mission and values is the most powerful thing we did as a company to be successful because it enabled us to attract the best talent
++ It is foundational to have a diverse team that can drive diversity of thought and accurately reflect your customer base
++ Many of these issues dress themselves up as political issues, but they are really just about values.
++ transition from shareholder focus to stakeholder focus
++ mission statement and vision made into a reality
++ Mission: Democratize financial services" 
+
+    + provide financial services to all people
+    + include all stakeholders in their mission statement
+    + no mention of "being the best"
+    
++ board of directors designed to mirror their consumer makeup
++ build empathy and trust by having employees live like the marginalized
++ create an environment to attract top talent <- this is what all companies should do
+
+# Google and project dragonfly / maven
+Bloomberg Businessweek
+Stakeholder Power
+
++ Stakeholder power- Google wants the military's business but the employees don't
+
+    + Google withdrew from the 250MM project Maven
+    + Google withdrew from 10B project Jedi due to violation of code of ethics
+        + project awarded to Microsoft
+        + Trump had undue influence since he don't like Bezos
+
++ Project Dragonfly - censored search engine tailored for the Chinese market
+
+    + July 2019: confirmed Project Dragonfly was terminated
+    + "What we're willing to commit to is that any decision to ever look at going back into China search market is one that we would take only in consultation with key stakeholders"
+    
++ Google's stakeholders in this case?
++ Which set of stakeholders carry the most power?
++ Can this be replicated at my work place?
++ Is it my job as a stakeholder to limit shareholder value?
+    
+# Fishbowl Discussion #5: 
+
+1. Is Paypal's actions meeting the objective stated in their Mission Statement?  What activities did they do to connect with their stakeholders?
+
++ Paypal is absolutely meeting the objective of their missions statement. Their service, PayPal Working Capital (PPWC) is an excellent success story of PayPal "democratizing financial services" to the underserved. 
++ When PayPal immerses themselves into their market - example of giving employees $20 in cash and challenged to live for a couple days in a specific neighborhood and talk to people in this community - this is truly "getting to know your customer" 
++ Worked with regulators
++ Cancelled plans for building a campus in North Carolina due to anti-LGBTQ stuff
++ Created values that reinforce the mission statement
+
+2. Chicken or the Egg, is Stakeholder focus only achievable once Shareholder value has been met or can it stand alone as a strategy?
+
++ Perhaps shareholders are necessary to get started. But stakeholder focus should be what keeps shareholders happy. 
++ Without shareholders, there are no stakeholders. 
+
+
+3. Do you feel Thomas Green has a problem?  Does he need to move on or is his case salvageable? 
+
++ His case is salvageable if he works with Frank. Shannon tasked Tom to *work with* Frank in his new position. He needs to collaborate with Frank to get the results he wants. He needs to first entertain Frank in his methods and **PERSUADE** him into seeing things differently. If Tom continues to use the commanding approach, he'll get fired. 
+
+4. What are the main challenges in this case and what do think can be done?
+
++ Main challenge is that Tom shoots from the hip too much. He needs to collaborate with Frank. 
++ Trust in leadership must be developed. Tom obviously doesn't trust Frank, and Frank doesn't trust Shannon since she hired Tom without his input. Tom may trust Shannon, but Shannon trusts Frank more than Tom. 
+
+5. Do you agree with the statement, "You are free to choose your actions, but you are not free to choose the consequences of those actions"?
+
++ absolutely. Same thing with communication or giving feedback. You're free to say the words you want, but you are not free to determine how your words are received. Actions and consequences are the same. This is where trust in leadership and mentorship come into place. You need a sounding board to bounce ideas off of before you make big decisions. Your peers and mentors can help give you advice in what results to expect from your actions. 
+
+6. Do you have the ability in your workplace to challenge the corporate direction, similar to what the employees have done at Google and other businesses?  How does this impact stakeholders?
+
++ In my experience, no. My corporate cultures have always been in the mindset of "this is the way we've always done it". My companies have had a corporate mission statement, but I've never seen the level of commitment to these statements as we learned about through the PayPal case. 
++ If you take a step back in consulting, it's really all about relationship building. But at the end of the day, consulting is about billability, which is the shareholder mentality. If consulting companies focused on keeping their employees happy, their clients will be kept happy. But consulting companies always have the client as their priority and never the employees. 
++ if companies actually listen to their employees, the company well experience **LOYALTY** from the employees, which is unheard of in this day and age
++ if companies are just blowing smoke up their employees arses, then turnover will continue
